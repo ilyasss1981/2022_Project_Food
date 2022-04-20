@@ -38,6 +38,7 @@
     "gulp-webp-html-nosvg": "^1.0.5",
     "gulp-webpcss": "^1.1.1",
     "gulp-zip": "^5.1.0",
+    "json-server": "^0.17.0",
     "sass": "^1.49.9",
     "vinyl-ftp": "^0.6.1",
     "webp-converter": "2.2.3",
